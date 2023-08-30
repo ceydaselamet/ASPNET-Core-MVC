@@ -10,7 +10,7 @@ using Repositories;
 namespace StoreApp.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20230829155345_Category")]
+    [Migration("20230830113850_Category")]
     partial class Category
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
