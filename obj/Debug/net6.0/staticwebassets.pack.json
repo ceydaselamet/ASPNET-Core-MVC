@@ -9,6 +9,26 @@
       "PackagePath": "staticwebassets\\html\\Error.html"
     },
     {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\859255341.apple-iphone-13-128gb.jpg",
+      "PackagePath": "staticwebassets\\images\\859255341.apple-iphone-13-128gb.jpg"
+    },
+    {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
       "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\default.jpg",
       "PackagePath": "staticwebassets\\images\\default.jpg"
     },
