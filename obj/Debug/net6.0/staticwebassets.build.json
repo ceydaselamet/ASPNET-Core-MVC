@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bmldmDQWDB6OB6RDlJc+ZJ1TRPG+GX02Y8JqABBgvNM=",
+  "Hash": "NH77+q2STFKyYgF1jCjMSRGgbojI+KBQg/wg1xxniHY=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\7.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
     },
     {
       "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
