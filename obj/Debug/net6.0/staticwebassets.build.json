@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jCx2ETETd7Hv5IcQqLJDkynF6BnaMGucILTdKJ+Unn8=",
+  "Hash": "bmldmDQWDB6OB6RDlJc+ZJ1TRPG+GX02Y8JqABBgvNM=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
+      "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\10.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10.jpg"
+    },
+    {
       "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
@@ -85,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\3.png",
+      "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\",
       "BasePath": "_content/StoreApp",
-      "RelativePath": "images/3.png",
+      "RelativePath": "images/8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\3.png"
+      "OriginalItemSpec": "wwwroot\\images\\8.jpg"
     },
     {
       "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\859255341.apple-iphone-13-128gb.jpg",
