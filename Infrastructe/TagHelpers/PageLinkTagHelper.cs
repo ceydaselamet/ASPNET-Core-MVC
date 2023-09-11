@@ -8,7 +8,7 @@ using StoreApp.Models;
 namespace StoreApp.Infrastructe.TagHelpers
 {
     [HtmlTargetElement("div", Attributes = "page-model")]
-    public class PageLlinkTagHelper : TagHelper
+    public class PageLinkTagHelper : TagHelper
     {
         private readonly IUrlHelperFactory _urlHelperFactory;
 
@@ -23,7 +23,7 @@ namespace StoreApp.Infrastructe.TagHelpers
         public string PageClassNormal { get; set; } = String.Empty;
         public string PageClassSelected { get; set; } = String.Empty;
 
-        public PageLlinkTagHelper(IUrlHelperFactory urlHelperFactory)
+        public PageLinkTagHelper(IUrlHelperFactory urlHelperFactory)
         {
             _urlHelperFactory = urlHelperFactory;
         }

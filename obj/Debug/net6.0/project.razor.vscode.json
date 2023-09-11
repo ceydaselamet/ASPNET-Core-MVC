@@ -16145,11 +16145,11 @@
         }
       },
       {
-        "HashCode": -829761239,
+        "HashCode": -1143739792,
         "Kind": "ITagHelper",
-        "Name": "StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper",
+        "Name": "StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper",
         "AssemblyName": "StoreApp",
-        "DisplayName": "StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper",
+        "DisplayName": "StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper",
         "CaseSensitive": false,
         "TagMatchingRules": [
           {
@@ -16169,7 +16169,7 @@
             "Kind": "ITagHelper",
             "Name": "page-model",
             "TypeName": "StoreApp.Models.Pagination",
-            "DisplayName": "StoreApp.Models.Pagination StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageModel",
+            "DisplayName": "StoreApp.Models.Pagination StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageModel",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageModel"
@@ -16179,7 +16179,7 @@
             "Kind": "ITagHelper",
             "Name": "page-action",
             "TypeName": "System.String",
-            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageAction",
+            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageAction",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageAction"
@@ -16189,7 +16189,7 @@
             "Kind": "ITagHelper",
             "Name": "page-classes-enabled",
             "TypeName": "System.Boolean",
-            "DisplayName": "bool StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageClassesEnabled",
+            "DisplayName": "bool StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageClassesEnabled",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageClassesEnabled"
@@ -16199,7 +16199,7 @@
             "Kind": "ITagHelper",
             "Name": "page-class",
             "TypeName": "System.String",
-            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageClass",
+            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageClass",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageClass"
@@ -16209,7 +16209,7 @@
             "Kind": "ITagHelper",
             "Name": "page-class-normal",
             "TypeName": "System.String",
-            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageClassNormal",
+            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageClassNormal",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageClassNormal"
@@ -16219,7 +16219,7 @@
             "Kind": "ITagHelper",
             "Name": "page-class-selected",
             "TypeName": "System.String",
-            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper.PageClassSelected",
+            "DisplayName": "string StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper.PageClassSelected",
             "CaseSensitive": false,
             "Metadata": {
               "Common.PropertyName": "PageClassSelected"
@@ -16227,8 +16227,8 @@
           }
         ],
         "Metadata": {
-          "Common.TypeName": "StoreApp.Infrastructe.TagHelpers.PageLlinkTagHelper",
-          "Common.TypeNameIdentifier": "PageLlinkTagHelper",
+          "Common.TypeName": "StoreApp.Infrastructe.TagHelpers.PageLinkTagHelper",
+          "Common.TypeNameIdentifier": "PageLinkTagHelper",
           "Common.TypeNamespace": "StoreApp.Infrastructe.TagHelpers",
           "Runtime.Name": "ITagHelper"
         }
