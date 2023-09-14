@@ -63,3 +63,4 @@ C:\BTK\MVC\Store\StoreApp\bin\Debug\net6.0\Services.dll
 C:\BTK\MVC\Store\StoreApp\bin\Debug\net6.0\Services.pdb
 C:\BTK\MVC\Store\StoreApp\bin\Debug\net6.0\AutoMapper.dll
 C:\BTK\MVC\Store\StoreApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BTK\MVC\Store\StoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
