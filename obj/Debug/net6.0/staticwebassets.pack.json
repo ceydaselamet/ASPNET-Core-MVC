@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\images\\859255341.apple-iphone-13-128gb.jpg"
     },
     {
+      "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\berlin.jpg",
+      "PackagePath": "staticwebassets\\images\\berlin.jpg"
+    },
+    {
       "Id": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\book.png",
       "PackagePath": "staticwebassets\\images\\book.png"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NH77+q2STFKyYgF1jCjMSRGgbojI+KBQg/wg1xxniHY=",
+  "Hash": "tS7PAyWJMnPumBfmjet18RB2EaMql6JeuutGHrFUNxo=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\859255341.apple-iphone-13-128gb.jpg"
+    },
+    {
+      "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\berlin.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/berlin.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\berlin.jpg"
     },
     {
       "Identity": "C:\\BTK\\MVC\\Store\\StoreApp\\wwwroot\\images\\book.png",
